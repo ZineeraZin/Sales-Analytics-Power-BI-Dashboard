@@ -44,8 +44,7 @@ The dataset contains customer information including:
 
 ## 🖼 Dashboard Preview
 
-Dashboard .png
-
+![Dashboard](Dashboard%20.png)
 ---
 
 ## 📧 Author
