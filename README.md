@@ -1,19 +1,53 @@
-# Sales-Analytics-Power-BI-Dashboard
-Interactive Power BI Sales &amp; Customer Churn Dashboard
-## Project Overview
-This project is an interactive Sales Analytics Dashboard built using Microsoft Power BI. It helps analyze sales performance, customer behavior, revenue trends, and customer churn.
+# 📊 Sales Analytics Power BI Dashboard
 
-## Tools Used
+## 📌 Project Overview
+
+This project is an interactive Sales Analytics Dashboard built using Microsoft Power BI. It analyzes customer behavior, revenue trends, payment methods, customer churn, and sales performance.
+
+---
+
+## 🛠 Tools Used
+
 - Microsoft Excel
 - Microsoft Power BI
 - DAX
 
-## Dashboard Features
-- Total Revenue
-- Total Customers
-- Average Order Value
-- Customer Lifetime Value (CLV)
-- Monthly Sales Trend
-- Revenue by Country
-- Revenue by Payment Method
-- Customer Churn Analysis
+---
+
+## 📂 Dataset
+
+The dataset contains customer information including:
+
+- Customer Details
+- Revenue
+- Payment Method
+- Customer Lifetime Value
+- Customer Churn
+- Subscription Plan
+- Country & City
+
+---
+
+## 📈 Dashboard Features
+
+- 💰 Total Revenue
+- 👥 Total Customers
+- 🛒 Average Order Value
+- 💎 Customer Lifetime Value
+- 📉 Monthly Sales Trend
+- 🌍 Revenue by Country
+- 💳 Revenue by Payment Method
+- 📍 Top Cities by Revenue
+- 📊 Customer Churn Analysis
+
+---
+
+## 🖼 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+---
+
+## 📧 Author
+
+**Zineera**
